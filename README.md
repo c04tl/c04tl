@@ -3,7 +3,7 @@ Soy ingeniero en sistemas, mi trabajo y contribuciones principales son sobre seg
 
 
 ## 🌐 Conecta conmigo:
-En mis redes sociales encontrarás mi contenido y publicaciones, investigaciones, recomendaciones, etc que comparto
+En mis redes sociales encontrarás mi contenido y también publicaciones, investigaciones, recomendaciones, etc que comparto para mantenernos informados. 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c04tl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@c04tl) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/c04tl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/c04tl) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@c04tl) 
 
 # 💻 La tecnología que uso:
